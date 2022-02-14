@@ -6,7 +6,7 @@
     "branch" : "master",
     "devel" : { },
     "head" : { },
-    "version" : "deneme version",
+    "version" : "1.0.0",
     "sha1" : "f24a980803d9e44651e1a7a0de04f245c01856ba"
   },
   "company" : "Broadcom",
