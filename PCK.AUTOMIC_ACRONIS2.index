@@ -1,13 +1,13 @@
 {
-  "name" : "PCK.AUTOMIC_ACRONIS",
+  "name" : "PCK.TELEFONICA",
   "description" : "",
   "repository" : {
     "type" : "archive",
     "branch" : "master",
-    "url" : "https://downloads2.automic.com/jart/prj3/dlc/main.jart.zip?content-id=1426247848003&action=get&pck-mode=yes&release_delivery_id=1594795040543",
+    "url" : "https://abc.com",
     "devel" : { },
     "head" : { },
-    "version" : "1.0.0",
+    "version" : "1.0.11",
     "sha1" : "f24a980803d9e44651e1a7a0de04f245c01856ba",
     "dependencies" : {
       "PCK.ITPA_SHARED" : "~>1.2"
@@ -16,7 +16,7 @@
   "company" : "Broadcom",
   "homepage" : "http://www.broadcom.com",
   "license" : "",
-  "categories" : "Acronis Actions",
+  "categories" : "Deneme Category",
   "packageFormatVersion" : "0.3.0",
   "title" : "Acronis2 action pack"
 }
