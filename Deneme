@@ -4,6 +4,7 @@
   "repository" : {
     "type" : "archive",
     "branch" : "master",
+    "url" : "https://dgog.com",
     "devel" : { },
     "head" : { },
     "version" : "1.0.0",
